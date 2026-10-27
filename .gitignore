@@ -1,0 +1,15 @@
+# Only the published parts of the project; everything else stays local.
+/*
+!/.gitignore
+!/.gitattributes
+!/.github/
+!/README.md
+!/core/
+!/mac/
+!/licenses/
+
+__pycache__/
+*.pyc
+/core/gigaam/
+build/
+dist/
